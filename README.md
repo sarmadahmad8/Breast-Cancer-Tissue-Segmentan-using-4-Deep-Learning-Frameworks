@@ -10,13 +10,13 @@ For segformer add the _classes.csv to both images and masks folders.
 For YOLOv8, start a roboflow project on instance segmentation, upload the dataset, and export is as YOLOv8.
 
 # Results
-This projects provides a comparative view of these 4 models performing the tast of segmenting the breast cancer tissue in the image.
+This projects provides a comparative view of these 4 models performing the task of segmenting the breast cancer tissue in the image.
 
 The results are as follows:
-YOLOv8-seg mAP@50%: 99.3%
-Mask R-CNN mAP@50%: 95.2%
-Segformer mIoU: 77.1%
-FCN mIoU: 65.8%
+1. YOLOv8-seg mAP@50%: 99.3%
+2. Mask R-CNN mAP@50%: 95.2%
+3. Segformer mIoU: 77.1%
+4. FCN mIoU: 65.8%
 
 # Model Checkpoints and Inference
 All the trained models are on this google drive link: https://drive.google.com/drive/folders/1s_iCNc77am7KRbIMt5V_QCeQ9uJJ6OSc?usp=drive_link
