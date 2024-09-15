@@ -1,4 +1,4 @@
-# Breast Cancer Ultrasound Segmentation using 4 Deep Learning Segmentation Frameworks
+# Breast Cancer Ultrasound Segmentation on 4 Deep Learning Segmentation Frameworks
 # Dataset
 All these models were tested on the Breast Cancer Ultrasound Dataset found on Kaggle. 
 The link to the dataset is https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
