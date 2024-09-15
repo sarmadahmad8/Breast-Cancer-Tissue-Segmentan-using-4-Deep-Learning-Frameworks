@@ -1,0 +1,8 @@
+#Path
+path: Segmentation_Task/SegData_YOLO
+train: train/images
+val: train/images
+
+# Classes
+names:
+  0: Blackspot
