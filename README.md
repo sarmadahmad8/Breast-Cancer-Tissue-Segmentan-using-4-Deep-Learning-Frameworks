@@ -21,4 +21,4 @@ The results are as follows:
 # Model Checkpoints and Inference
 All the trained models are on this google drive link: https://drive.google.com/drive/folders/1s_iCNc77am7KRbIMt5V_QCeQ9uJJ6OSc?usp=drive_link
 
-You can download any of these models and test inference on new images or use them for transfer learning on similar data.
+You can download any of these models and run inference on new images or use them for transfer learning on similar data.
