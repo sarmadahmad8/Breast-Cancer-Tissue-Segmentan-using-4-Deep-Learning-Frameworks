@@ -14,8 +14,8 @@ This projects provides a comparative view of these 4 models performing the task 
 
 The results are as follows:
 1. YOLOv8-seg mAP@50%: 99.3%
-2. Mask R-CNN mAP@50%: 95.2%
-3. Segformer mIoU: 77.1%
+2. Mask R-CNN mAP@50%: 92.0%
+3. Segformer mIoU: 80.9%
 4. FCN mIoU: 65.8%
 
 # Model Checkpoints and Inference
